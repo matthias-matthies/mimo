@@ -1,0 +1,10 @@
+[package]
+name = "automations"
+version = "0.1.0"
+edition = "2024"
+authors = ["Matthias Matthies <kontakt@matthias-matthies.com>"]
+description = "UI Crate for Mimo."
+publish = false
+
+[dependencies]
+log = "0.4.27"
