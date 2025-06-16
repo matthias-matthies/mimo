@@ -8,3 +8,5 @@ publish = false
 
 [dependencies]
 log = "0.4.27"
+ui = { path = "../ui" }
+types = { path = "../types" }
